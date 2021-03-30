@@ -12,6 +12,12 @@ font-family: Verdana;}
     padding: 20px;
     border-radius: 25px;
     align-self: center;
+    margin: 1em auto;
+}
+#flex-parent
+{
+    display: flex;
+    flex-direction: row;
 }
 
 
